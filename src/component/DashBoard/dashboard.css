@@ -1,5 +1,6 @@
 .dashboard {
   width: 87vw;
+  background-color: #f4f8fb;
 }
 .upper-dashboard-container {
   display: grid;

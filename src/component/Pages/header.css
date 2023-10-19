@@ -4,7 +4,7 @@
     width: 84%;
     height: 10vh;
     z-index: 1000;
-    background: rgba(252, 249, 249, 0.5);
+    background: #f4f8fb;
   }
   
   .header-container {
